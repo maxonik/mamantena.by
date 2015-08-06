@@ -1,0 +1,151 @@
+@import '../css/template_styles.css';
+
+@import 'utilities/index';
+
+.mainItemBlock.itemKindergarten {
+    .table-borded {
+        td {
+            &:first-child {
+                color: #405557;
+            }
+            &:nth-child(3) {
+                text-align: left;
+            }
+        }
+    }
+    .tab_container {
+        .tab_nav .tab {
+            width: 25%
+        }
+        #roddom-map {
+            padding: 20px;
+            box-sizing: border-box
+        }
+        #roddom-map img {
+            display: block;
+            width: 100%
+        }
+        #descr,
+        #reviews {
+            padding: 0;
+            div.addreviewform,
+            .review_block {
+                padding: 20px
+            }
+            a.addreviewform {
+                margin: 0 0 20px 20px
+            }
+        }
+    }
+    .itemLeft {
+        float: left;
+        width: 400px;
+    }
+    .bigImg {
+        float: none;
+        width: 100%;
+        a,
+        a.zoom {
+            width: 100%;
+        }
+        img {
+            display: block;
+            width: 100%;
+            max-width: 100%;
+        }
+    }
+    .infoTop {
+        margin-left: 395px;
+        border-left: none;
+        & > table {
+            width: 100%;
+            td {
+                padding: 5px 10px 4px 0;
+                color: #405557;
+                font-family: 'PT Serif', serif;
+                font-size: 14px;
+                line-height: 18px;
+                vertical-align: middle;
+                a.rate {
+                    color: #979797
+                }
+                a {
+                    color: #ef6c69;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 12px
+                }
+                a.addreviewform {
+                    margin-top: 10px;
+                    color: #fff;
+                    font-family: 'PT Serif', serif;
+                    font-size: 14px;
+                    text-decoration: none
+                }
+                .to-reviews {
+                    color: #5e95e3;
+                    font-size: 14px;
+                    display: inline-block;
+                    vertical-align: top;
+                    margin-top: -5px;
+                }
+            }
+        }
+        .rating {
+            a {
+                background: url(/images/ico_stars_big.png) 0 0 no-repeat;
+                width: 20px;
+                height: 20px
+            }
+        }
+        .address,
+        .phone {
+            color: #979797
+        }
+    }
+    .rating {
+        height: 21px;
+        display: block
+    }
+}
+
+.lessRes .mainItemBlock.itemKindergarten .rating {
+    margin-bottom: 2px
+}
+
+.table-borded {
+    width: 100%;
+}
+
+.table-borded > tbody > tr > td {
+    overflow: hidden;
+    line-height: 20px;
+    font-size: 14px;
+    text-align: right;
+}
+
+.table-borded > tbody > tr > td:first-child {
+    font-weight: 500;
+    text-align: left;
+}
+
+.table-borded > tbody > tr > td > span.table-borded__d {
+    position: relative;
+    display: inline-block;
+}
+
+.table-borded > tbody > tr > td > span.table-borded__d:after {
+    right: 100%;
+    margin-right: 3px;
+    content: "";
+    height: 1px;
+    position: absolute;
+    bottom: 5px;
+    background: url(images/dots.png) 0 0 repeat-x;
+    width: 600px;
+}
+
+.table-borded > tbody > tr > td:first-child > span.table-borded__d:after {
+    margin-left: 2px;
+    right: auto;
+    left: 100%;
+}

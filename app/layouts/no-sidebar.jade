@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+include ../includes/head
+
+body
+    #panel
+    #container
+        #all
+            //if lte IE 7
+                div(style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;')
+                    div(style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;')
+                        a(onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;')
+                            img(src='/images/ie6nomore-cornerx.jpg', alt='Close this notice')
+                    div(style='width: 720px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;')
+                        div(style='width: 75px; float: left;')
+                            img(src='/images/ie6nomore-warning.jpg', alt='Warning!')
+                        div(style='width: 355px; float: left; font-family: Arial, sans-serif;')
+                            div(style='font-size: 14px; font-weight: bold; margin-top: 12px;') Вы используете устаревшую версию браузера
+                            div(style='font-size: 12px; margin-top: 6px; line-height: 12px;')
+                                | Для правильного отображения и адекватной работы сайта необходимо обновить барузер!
+                        div(style='width: 75px; float: left;')
+                            a(href='http://www.mozilla.org/ru/firefox/fx/', target='_blank')
+                                img(src='/images/ie6nomore-firefox.jpg', style='border: none;', alt='Get Firefox 3.5')
+                        div(style='width: 75px; float: left;')
+                            a(href='http://www.browserforthebetter.com/download.html', target='_blank')
+                                img(src='/images/ie6nomore-ie8.jpg', style='border: none;', alt='Get Internet Explorer 8')
+                        div(style='width: 73px; float: left;')
+                            a(href='http://www.apple.com/safari/download/', target='_blank')
+                                img(src='/images/ie6nomore-safari.jpg', style='border: none;', alt='Get Safari 4')
+                        div(style='float: left;')
+                            a(href='http://www.google.com/chrome', target='_blank')
+                                img(src='/images/ie6nomore-chrome.jpg', style='border: none;', alt='Get Google Chrome')
+            include ../includes/header
+            //
+                class="l" = left_column + main_column
+                class="r" = main_column + right_column
+                class="lr" = left_column + main_column + right_column
+            #content
+                .content
+                    .breadcrumbs
+                        a.main(href='/') Главная
+                        a(href='/roddom/') Роддома Беларуси
+                        a(href='/roddom/gomel/') Роддома Гомель
+                    .wrapper
+                        .main_column
+                            block content
+                    .left_column
+                    .right_column
+                    .clear
+                        // x
+                // !EOF .content
+            // !EOF #content
+            .forfooter
+        // !EOF #all
+        footer
+            .content
+                .madeby
+                    a(href='http://sozdanie-saita.by/', target='_blank') Создание интернет-магазина – Silentcode
+                    img(src='/images/silentcode.png', alt='Silentcode')
+                .copyright
+                    | © 2015 Мамантёна - магазин товаров для детей
+    // !EOF #container
+    #compare_controls
+    // scripts
+    script(src='js/chosen.jquery.js')
+    script(src='js/effects.js')
+    script(src='js/plugins.js')
+    script(src='js/jquery.validate.min.js')
+    script(src='js/additional-methods.js')
+    script(src='js/easySlider1.7.js')
+    script(src='js/jcarousellite.js')
+    script(src='js/fancybox/jquery.fancybox.pack.js')
+    script.
+        $(document).ready(function() {
+        $(".chzn-select").chosen();
+        $('.fancybox').fancybox({
+        helpers: {
+        overlay: {
+        locked: false
+        }
+        }
+        });
+        });
+        $(window).resize(function() {
+        $(".chzn-select").chosen();
+        });
+    // !EOF scripts

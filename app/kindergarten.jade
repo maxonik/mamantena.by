@@ -1,0 +1,442 @@
+extend layouts/no-sidebar
+
+block content
+
+    h1 Детский сад имени Ленина №5
+    .mainItemBlock.itemKindergarten
+        .itemBlock
+            .itemLeft
+                .bigImg
+                    a.zoom.fancybox(href='http://mamantena.by/upload/iblock/94a/94a3938c0f3f39306e58c2e6c1d6965f.jpg', rel='group')
+                        img(src='http://placehold.it/400x300', alt='')
+                        span
+                .infoBottom
+                    table.table-borded
+                      tbody
+                        tr
+                          td
+                            span.table-borded__d Тип:
+                          td
+                            span.table-borded__d Муниципальный
+                          td
+                        tr
+                          td
+                            span.table-borded__d Адрес:
+                          td
+                            span.table-borded__d Минск, ул. Мира, д. 14
+                          td
+                            span.icon.sprite-map-pin
+                            a(href="#") Показать на карте
+                        tr
+                          td
+                            span.table-borded__d Время работы:
+                          td
+                            span.table-borded__d пн - пт с 10:00 до 18:00
+                          td
+                        tr
+                          td
+                            span.table-borded__d Телефон:
+                          td
+                            span.table-borded__d +375 17 252-43-56
+                          td
+                            span.icon.sprite-telephone-xs
+                            a(href="#") Все контакты
+                        tr
+                          td
+                            span.table-borded__d Сайт:
+                          td
+                            span.table-borded__d 
+                                a(href="#") www.sitename.by
+                          td
+            .infoTop
+                table
+                    tr
+                        td Общий рейтинг:
+                        td
+                            .rating
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.unactivestar(href='javascript:void(0)')  
+                            a.to-reviews(href='#') 6 отзывов
+                        td(rowspan="3")
+                            .rating-text
+                                span.rating-text__circle 8,7
+                                | из 10
+                            a.rate.rate-up(href='#')
+                                span45
+                                |  Рекомендуют
+                            a.rate.rate-down(href='#')
+                                span 12
+                                |  Не рекомендуют
+                    tr
+                        td Питание:
+                        td
+                            .rating
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.unactivestar(href='javascript:void(0)')  
+                        td
+                    tr
+                        td Качество воспитания:
+                        td
+                            .rating
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.unactivestar(href='javascript:void(0)')  
+                        td
+                    tr
+                        td Стоимость:
+                        td
+                            .rating
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.unactivestar(href='javascript:void(0)')  
+                        td
+                    tr
+                        td Время работы:
+                        td
+                            .rating
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.unactivestar(href='javascript:void(0)')  
+                        td
+                    tr
+                        td Материальная база:
+                        td
+                            .rating
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.activestar(href='javascript:void(0)')  
+                                a.unactivestar(href='javascript:void(0)')  
+                        td
+
+                    tr
+                        td(colspan='2')
+                            a.addreviewform(href='javascript:void(0)') Написать отзыв
+                        td
+                        td
+            .clear
+        .itemSocial
+            // Put this script tag to the <head> of your page
+            //- script(type='text/javascript', src='//vk.com/js/api/openapi.js?105')
+            //- script(type='text/javascript').
+            //-     VK.init({
+            //-     apiId: 4074221,
+            //-     onlyWidgets: true
+            //-     });
+            // Put this div tag to the place, where the Like block will be
+            //- #vk_l(style='display:inline-block;vertical-align:middle')
+            //- script(type='text/javascript').
+            //-     VK.Widgets.Like("vk_l", {
+            //-     type: "button"
+            //-     });
+            //- span#ya_share1
+            //- script(type='text/javascript').
+            //-     new Ya.share({
+            //-     element: 'ya_share1',
+            //-     theme: 'counter',
+            //-     elementStyle: {
+            //-     'type': 'none',
+            //-     'border': false,
+            //-     'quickServices': ['facebook', 'moimir', 'vkontakte', 'twitter', 'odnoklassniki', 'gplus']
+            //-     },
+            //-     link: window.location.href,
+            //-     title: 'Роддом №3 в Белице',
+            //-     description: '',
+            //-     image: 'http://mamantena.ru/upload/iblock/fee/fee7f2cd7b6f9ad8f3162e5f1e8b1dc8.jpg'
+            //-     });
+        .infoBlock
+            .tab_container
+                nav.tab_nav
+                    ul.tabs
+                        li.tab
+                            a.active(href='#testimonials') отзывы (6)
+                        li.tab
+                            a(href='#descr') описание и контакты
+                        li.tab
+                            a(href='') Фотографии (23)
+                        li.tab
+                            a(href='#roddom-map') Карта
+                        li.tab
+                            a(href='') Обсуждение (23)
+
+                #testimonials.tabInner.tab_show(data-id='24002')
+                    #reviews-roddoma
+                        .testimonials-list
+                            ul
+                                li.testimonials-list__block
+                                    .user-block
+                                        a.icon.sprite-fb-xs(href="#")
+                                        span.name Мария Синичкина
+                                        span.date 17.05.2015
+                                        span.points 3.3
+                                        a.testimonial__reply-link(href="#") Ответить
+                                    .testimonial
+                                        .testimonial__title Все супер!
+                                        .testimonial__text Данная модель является самой недорогой коляской среди колясок-трансформеров, находящихся в ассортименте интернетсклада BabyMax, поэ тому отнесем ее к эконом-классу, хотя по качеству, удобству и функциональности она не  уступает своим более дорогим собратьям и функционаь ности она не  уступает.
+                                        .testimonial__points
+                                            span.rate.rate-up Рекомендую
+                                            .points-block.attitude-points(data-tip='Отношение персонала') 4
+                                            .points-block.profi-points(data-tip='Профессионализм персонала') 5
+                                            .points-block.conditions-points(data-tip='Условия пребывания') 1
+                                        .testimonial__useful
+                                          | Отзыв полезен?
+                                          a.g-review__useful__yes(href='#') Да
+                                          span.review-plus-count 0
+                                          |  / 
+                                          a.g-review__useful__no(href='#') Нет
+                                          span.review-minus-count
+                                        ul.testimonial__media
+                                            li.testimonial__media__item
+                                                img(src="http://placehold.it/173x120", alt="")
+                                            li.testimonial__media__item
+                                                img(src="http://placehold.it/173x120", alt="")
+                                            li.testimonial__media__item
+                                                img(src="http://placehold.it/173x120", alt="")
+
+
+                                li.testimonials-list__block
+                                    .user-block
+                                        span.name Оксана
+                                        span.date 01.02.2015
+                                        span.points 2.7
+                                        a.testimonial__reply-link(href="#") Ответить
+                                    .testimonial
+                                        .testimonial__title Лучше сразу в школу, чем сюда!
+                                        .testimonial__text Данная модель является самой недорогой коляской среди колясок-трансформеров, находящихся в ассортименте интернетсклада BabyMax, поэ тому отнесем ее к эконом-классу, хотя по качеству, удобству и функциональности она не  уступает своим более дорогим собратьям и функционаь ности она не  уступает.
+                                        .testimonial__points
+                                            span.rate.rate-down Не рекомендую
+                                            .points-block.attitude-points(data-tip='Отношение персонала') 3
+                                            .points-block.profi-points(data-tip='Профессионализм персонала') 4
+                                            .points-block.conditions-points(data-tip='Условия пребывания') 1
+                                        .testimonial__reply.testimonial-reply
+                                            .testimonial-reply__title Ответ детского сада
+                                            .testimonial-reply__edit Редакировать
+                                            .testimonial-reply__text Данная модель является самой недорогой коляской среди колясок-трансформеров, находящихся в ассортименте интернетсклада Baby тому отнесем ее к эконом-классу, хотя по качеству, удобству и функциональности она не  уступает своим более дорогим собратьям и функционаьности она не  уступает.
+                                        .testimonial__useful
+                                          | Отзыв полезен?
+                                          a.g-review__useful__yes(href='#') Да
+                                          span.review-plus-count 0
+                                          |  / 
+                                          a.g-review__useful__no(href='#') Нет
+                                          span.review-minus-count
+                                li.testimonials-list__block
+                                    .user-block
+                                        span.name Анна
+                                        span.date 29.12.2014
+                                        span.points 3.7
+                                    .testimonial
+                                        .testimonial__title Хороший сад. Многое нравится.
+                                        .testimonial__text Данная модель является самой недорогой коляской среди колясок-трансформеров, находящихся в ассортименте интернетсклада BabyMax, поэ тому отнесем ее к эконом-классу, хотя по качеству, удобству и функциональности она не  уступает своим более дорогим собратьям и функционаь ности она не  уступает.
+                                        .testimonial__points
+                                            span.rate.rate-up Рекомендую
+                                            .points-block.attitude-points(data-tip='Отношение персонала') 4
+                                            .points-block.profi-points(data-tip='Профессионализм персонала') 5
+                                            .points-block.conditions-points(data-tip='Условия пребывания') 2
+                                        .testimonial__useful
+                                          | Отзыв полезен?
+                                          a.g-review__useful__yes(href='#') Да
+                                          span.review-plus-count 0
+                                          |  / 
+                                          a.g-review__useful__no(href='#') Нет
+                                          span.review-minus-count
+                                        ul.testimonial__media
+                                            li.testimonial__media__item
+                                                img(src="http://placehold.it/173x120", alt="")
+                                        .testimonial__editor.b-editor
+                                            .b-editor__controls
+                                                .b-editor__controls-item.b-editor__controls-item--bold
+                                                .b-editor__controls-item.b-editor__controls-item--italic
+                                                .b-editor__controls-item.b-editor__controls-item--underline
+                                            textarea.b-editor__field(name="", cols="30", rows="4")
+                                            .b-editor__footer
+                                                button.b-editor__submit-button Высказаться
+                                                button.b-editor__cancel-button Ничего не писать
+                                                .b-editor__reply-visibility
+                                                  input(type="checkbox")
+                                                  label(for="") Сделать ответ видимым для всех
+                        nav.paginator(data-navnum='1')
+                          ul
+                            li.page
+                              a.page.current(data-navpagenomer='1', href='/roddom/') 1
+                            li.page
+                              a.page(data-navpagenomer='2', href='/roddom/?PAGEN_1=2') 2
+                            li.page
+                              a.nextPage(data-navpagenomer='2', href='/roddom/?PAGEN_1=2') Следующая
+
+
+                    a.addreviewform(href='javascript:void(0)') Написать отзыв
+                    .testimonial-add.addreviewform
+                        strong.title Написать отзыв
+                        form(enctype='multipart/form-data', method='post', name='reviewFormRoddom')
+                            input(type='hidden', name='RODDOM', value='24002')
+                            #messageBox
+                            .form-field
+                                .form-field-points
+                                    .data-field
+                                        .rating
+                                            label Питание:
+                                            a.unactivestar(href='javascript:void(0)', data='1')  
+                                            a.unactivestar(href='javascript:void(0)', data='2')  
+                                            a.unactivestar(href='javascript:void(0)', data='3')  
+                                            a.unactivestar(href='javascript:void(0)', data='4')  
+                                            a.unactivestar(href='javascript:void(0)', data='5')  
+                                            input(type='hidden', value='', name='ATITUDE')
+                            .form-field
+                                .form-field-points
+                                    .data-field
+                                        .rating
+                                            label Качество воспитания:
+                                            a.unactivestar(href='javascript:void(0)', data='1')  
+                                            a.unactivestar(href='javascript:void(0)', data='2')  
+                                            a.unactivestar(href='javascript:void(0)', data='3')  
+                                            a.unactivestar(href='javascript:void(0)', data='4')  
+                                            a.unactivestar(href='javascript:void(0)', data='5')  
+                                            input(type='hidden', value='', name='PROF')
+                            .form-field
+                                .form-field-points
+                                    .data-field
+                                        .rating
+                                            label Стоимость:
+                                            a.unactivestar(href='javascript:void(0)', data='1')  
+                                            a.unactivestar(href='javascript:void(0)', data='2')  
+                                            a.unactivestar(href='javascript:void(0)', data='3')  
+                                            a.unactivestar(href='javascript:void(0)', data='4')  
+                                            a.unactivestar(href='javascript:void(0)', data='5')  
+                                            input(type='hidden', value='', name='TERMS')
+                            .form-field
+                                .form-field-points
+                                    .data-field
+                                        .rating
+                                            label Время работы:
+                                            a.unactivestar(href='javascript:void(0)', data='1')  
+                                            a.unactivestar(href='javascript:void(0)', data='2')  
+                                            a.unactivestar(href='javascript:void(0)', data='3')  
+                                            a.unactivestar(href='javascript:void(0)', data='4')  
+                                            a.unactivestar(href='javascript:void(0)', data='5')  
+                                            input(type='hidden', value='', name='TERMS')
+                            .form-field
+                                .form-field-points
+                                    .data-field
+                                        .rating
+                                            label Материальная база:
+                                            a.unactivestar(href='javascript:void(0)', data='1')  
+                                            a.unactivestar(href='javascript:void(0)', data='2')  
+                                            a.unactivestar(href='javascript:void(0)', data='3')  
+                                            a.unactivestar(href='javascript:void(0)', data='4')  
+                                            a.unactivestar(href='javascript:void(0)', data='5')  
+                                            input(type='hidden', value='', name='TERMS')
+
+                            .form-field
+                                .data-field.form-field-inputtext
+                                    label(for='name') Имя:
+                                    input#name.txt-input(name='NAME', type='text', value='', placeholder='Напишите как вас зовут')
+                                    .help-text
+                                        | Авторизоваться на сайт или войти через
+                                        a(href="#")
+                                            .icon.sprite-vk
+                                            | вКонтакте
+                                        a(href="#")
+                                            .icon.sprite-fb
+                                            | facebook
+                            .form-field
+                                .data-field.form-field-radio
+                                    input#recommend.form-radio(type='radio', checked='', name='RECOMMEND', value='87')
+                                    label(for='recommend') Рекомендую
+                                    input#not-recommend.form-radio(type='radio', name='RECOMMEND', value='')
+                                    label(for='not-recommend') Не рекомендую
+                                    .help-text
+                                        .icon.sprite-error
+                                        | Вы ничего не выбрали
+                            .form-field
+                                .data-field.form-field-inputtext
+                                    label(for='email') E-mail:
+                                    input#email.txt-input(name='EMAIL', type='email', value='', placeholder='Укажите Ваш контактный E-mail')
+                            .form-field
+                                .data-field.form-field-inputtext
+                                    label(for='impression') Общее впечатление:
+                                    input#impression.txt-input(name='PREVIEW_TEXT', type='text', value='', placeholder='Например, роддом просто супер!')
+                            .form-field
+                                .data-field.form-field-textarea
+                                    label Отзыв:
+                                    textarea.form-textarea(cols='30', rows='5', name='DETAIL_TEXT', placeholder='Расскажите подробно о ваших впечатлениях')
+                            .form-field
+                                .data-field.form-field-file
+                                    label
+                                        | Прикрепить фото: 
+                                        span.note Удерживайте shift, чтобы выбрать сразу несколько файлов
+                                    .form-file-upload
+                                        input.form-file.cform(type='file', name='IMAGES[]', multiple='', value='')
+                            .form-field
+                                .data-field.form-field-submit
+                                    input.btn-submit(type='submit', value='Высказаться')
+                #descr.tabInner.tab_hide
+                    table.features
+                        tbody
+                            tr
+                                th(colspan='2') Контакты
+                            tr
+                                td Приемное отделение
+                                td +375 232 37−76−92
+                            tr.even
+                                td Родовое отделение
+                                td +375 232 37−70−75
+                            tr
+                                td Послеродовое отделение
+                                td +375 232 39−37−96
+                            tr.even
+                                td E-mail
+                                td ggkb3@mail.gomel.by
+                #roddom-map.tabInner.tab_hide(style='width:100%;height:530px;', data-load='N')
+                .clearfix
+    script.
+        $(function() {
+        function init() {
+        var lat = 52.356301;
+        var lon = 31.032957;
+        var zoom = 16;
+        myMap = new ymaps.Map("roddom-map", {
+        center: [lat, lon],
+        zoom: zoom
+        });
+        myPlacemark = new ymaps.Placemark([52.356301, 31.032957], {
+        hintContent: 'Роддом №3 в Белице',
+        balloonContent: 'Роддом №3 в Белице'
+        });
+        myMap.geoObjects.add(myPlacemark);
+        myMap.controls.add(
+        new ymaps.control.ZoomControl()
+        );
+        myMap.controls.add('mapTools');
+        myMap.controls.add('typeSelector');
+        }
+        function loadMap() {
+        if ($('#roddom-map').data('load') == 'N') {
+        $.getScript("//api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU", function() {
+        var map = ymaps.ready(init);
+        var myMap, myPlacemark, shourum;
+        });
+        $('#roddom-map').data('load', 'Y');
+        }
+        }
+        $('.tab_container ul.tabs li').on('click', function() {
+        var el = $(this);
+        if (el.find('a').attr('href') == '#roddom-map') {
+        loadMap();
+        }
+        });
+        $('.to-map-block').on('click', function() {
+        loadMap();
+        });
+        });

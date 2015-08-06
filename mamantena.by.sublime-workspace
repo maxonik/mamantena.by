@@ -1,0 +1,1163 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"bo-bot",
+				"border-bottom"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"mo",
+				"month"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bo-bott",
+				"border-bottom-right-radius"
+			],
+			[
+				"bo-t",
+				"border-top-right-radius"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ou",
+				"outerHeight"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"te-al",
+				"text-align"
+			],
+			[
+				"fo-s",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"do",
+				"Document"
+			],
+			[
+				"f",
+				"fragment"
+			],
+			[
+				"ta-la",
+				"table-layout"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bo",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/kindergarten.jade",
+			"settings":
+			{
+				"buffer_size": 29002,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 2950,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scss/utilities/index.scss",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Windows",
+				"name": "@import \"\";"
+			}
+		},
+		{
+			"file": "app/scss/utilities/icons.scss",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/includes/head.jade",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 8697,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/effects.js",
+			"settings":
+			{
+				"buffer_size": 39270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".maternity-homes__block .rating a,.mainItemBlock.itemRoddom .infoTop .rating a{background:url(/images/ico_stars_big.png) 0 0 no-repeat;width:20px;height:20px}\n.mainItemBlock.itemRoddom .infoTop > table td a.rate{color:#979797}\n.mainItemBlock.itemRoddom .tab_container .tab_nav .tab{width:25%}\n.mainItemBlock.itemRoddom .tab_container #roddom-map{padding:20px;box-sizing:border-box}\n.mainItemBlock.itemRoddom .tab_container #roddom-map img{display:block;width:100%}\n.mainItemBlock.itemRoddom .tab_container #descr,.mainItemBlock.itemRoddom .tab_container #reviews{padding:0}\n.mainItemBlock.itemRoddom .tab_container #reviews div.addreviewform,.mainItemBlock.itemRoddom .tab_container #reviews .review_block{padding:20px}\n.mainItemBlock.itemRoddom .tab_container #reviews a.addreviewform{margin:0 0 20px 20px}\n.mainItemBlock.itemRoddom .bigImg{width:50%}\n.mainItemBlock.itemRoddom .bigImg a,.mainItemBlock.itemRoddom .bigImg a.zoom{width:50%;height:auto}\n.mainItemBlock.itemRoddom .bigImg img{display:block;width:100%}\n.mainItemBlock.itemRoddom .infoTop{margin-left:50%}\n.mainItemBlock.itemRoddom .infoTop > table{width:100%}\n.mainItemBlock.itemRoddom .infoTop > table td{padding:5px 10px 4px 0;color:#405557;font-family:'PT Serif',serif;font-size:14px;line-height:18px;vertical-align:middle}\n.mainItemBlock.itemRoddom .infoTop > table td a{color:#ef6c69;font-family:Arial,Helvetica,sans-serif;font-size:12px}\n.mainItemBlock.itemRoddom .infoTop > table td a.addreviewform{margin-top:10px;color:#fff;font-family:'PT Serif',serif;font-size:14px;text-decoration:none}\n.mainItemBlock.itemRoddom .infoTop .address,.mainItemBlock.itemRoddom .infoTop .phone{color:#979797}\n.mainItemBlock.itemRoddom .rating{height:21px;display:inline-block}\n.lessRes .mainItemBlock.itemRoddom .rating{margin-bottom:2px}\n.mainItemBlock.itemRoddom .infoTop > table td .to-reviews{vertical-align:sub}",
+			"settings":
+			{
+				"buffer_size": 1871,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by"
+	],
+	"file_history":
+	[
+		"/C/Users/maxonik/Projects/alex-smirnov/express-gt-webapp/.gitattributes",
+		"/C/Users/maxonik/Projects/alex-smirnov/aznur/css/style.css",
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by/package.json",
+		"/C/Users/maxonik/AppData/Local/Temp/fz3temp-1/template_styles.css",
+		"/C/Users/maxonik/AppData/Local/Temp/fz3temp-1/template_styles_old.css",
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by/app/layouts/no-sidebar.jade",
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by/app/includes/head.jade",
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by/dist/css/template_styles.css",
+		"/C/Users/maxonik/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/Users/maxonik/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by/gulpfile.js",
+		"/C/Users/maxonik/Projects/alex-smirnov/mamantena.by/app/includes/header.jade",
+		"/C/Users/maxonik/Projects/alex-smirnov/navy/less/formstyler.less",
+		"/C/Users/maxonik/Projects/alex-smirnov/navy/less/style.less",
+		"/C/Users/maxonik/Projects/alex-smirnov/navy/gulpfile.js",
+		"/C/Users/maxonik/Projects/alex-smirnov/navy/style.css",
+		"/C/Users/maxonik/Projects/alex-smirnov/navy/less/font-face.less",
+		"/C/Users/maxonik/Projects/alex-smirnov/navy/js/script.js",
+		"/C/Users/maxonik/Projects/sys/manual-template/app/scss/main.scss",
+		"/C/Users/maxonik/Projects/sys/manual-template/app/login.jade",
+		"/C/Users/maxonik/Projects/sys/manual-template/app/includes/head.jade",
+		"/C/Users/maxonik/Projects/sys/templates/template/Act_of_planned_unplanned_surveillance.htm",
+		"/C/inetpub/claimer_makeup/Content/new_style.less",
+		"/C/Users/maxonik/Dropbox/Documents/ИК в работу/готовые/new 10.03.2015/05_Решение_о_приостановлении.xml",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/2.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/1.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/includes/partials/modal.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/4.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/5.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/6.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/7.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/8.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/9.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/11.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/12.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/categories/Journal-additional-documentation/3.jade",
+		"/C/Users/maxonik/Projects/markup-template/.editorconfig",
+		"/C/Users/maxonik/Projects/alex-smirnov/tes-travel/.editorconfig",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/8.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/6.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/5.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/4.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/3.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/2.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/12.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/1.html",
+		"/C/inetpub/claimer_makeup/Views/Templates/STRTS/Sertificate.cshtml",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/Journal-additional-documentation/9.html",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/js/script.js",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/layouts/default.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/includes/partials/top_header.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/css/css.css",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/css/less.css",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/index.jade",
+		"/C/inetpub/claimer_makeup/Views/RegistrySTRTS/Blanks.cshtml",
+		"/C/inetpub/claimer_makeup/Views/Shared/_FormJS.cshtml",
+		"/C/Users/maxonik/Projects/sys/templates/template/calendar.htm",
+		"/C/inetpub/claimer_makeup/Scripts/script.js",
+		"/C/Users/maxonik/Projects/sys/markup-template/gulpfile.js",
+		"/C/Users/maxonik/Projects/sys/markup-template/app/includes/partials/c-foot.jade",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/js/script.js",
+		"/C/inetpub/claimer_makeup/Views/RegistryExport/_FormAndLinks.cshtml",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/css/less.css",
+		"/C/Users/maxonik/Projects/sys/markup-template/dist/css/css.css",
+		"/C/inetpub/claimer_makeup/Views/RegistryDTRTS/Index.cshtml",
+		"/C/inetpub/claimer_makeup/Views/RegistrySTRTS/Index.cshtml",
+		"/C/inetpub/claimer_makeup/Content/style.css",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/functions.php",
+		"/C/Users/maxonik/Projects/markup-template/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/web/client/inspector.css",
+		"/C/xampp/htdocs/calendar/styles/style.css",
+		"/C/inetpub/claimer_makeup/Scripts/calendarManager.js",
+		"/C/xampp/htdocs/calendar/index.html",
+		"/C/inetpub/claimer_makeup/Content/fullcalendar_overrides.css",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/sidebar.php",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/style.css",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/footer.php",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/header.php",
+		"/C/Users/maxonik/Downloads/wordpress.2015-05-26.xml",
+		"/C/xampp/htdocs/wp-manual/wp-content/plugins/zilla-shortcodes/includes/config.php",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/page.php",
+		"/C/Users/maxonik/Downloads/sys-manual(1).sql",
+		"/C/Users/maxonik/Downloads/sys-manual.sql",
+		"/C/Users/maxonik/Downloads/wp-manual-test.sql",
+		"/C/xampp/htdocs/wp-manual/wp-content/plugins/zilla-shortcodes/includes/shortcodes.php",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-functions-for-statements/working-with-protocol.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/download-the-application-and-its-annexes-on-the-computer/index.html",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/searchform.php",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-functions-for-statements/duplication-of-data-from-applications.html",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/search.php",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/languages/twentyfifteen.pot",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-functions-for-statements/assignment-of-a-registration-number-for-the-statement.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-functions-for-statements/filling-the-application.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-features-of-system-work/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-features-of-system-work/main-page.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-functions-for-statements/attach-scans-documents-from-the-applicant.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-functions-for-statements/search-layout-application-by-its-number-in-system.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/forms-and-fields-of-documents/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/main-menu-system/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/making-changes-to-the-application.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/making-changes-to-the-card-applicant.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/making-changes-to-the-card-manufacturer.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/making-changes-to-the-free-form.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/making-changes-to-the-manufacturers.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/change-statement/making-changes-to-the-protocol.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/download-the-application-and-its-annexes-on-the-computer/download-statement-and-one-application.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/download-the-application-and-its-annexes-on-the-computer/download-statement-and-two-applications.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/download-the-application-and-its-annexes-on-the-computer/download-statement.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/working-with-applications/application-free-form.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/working-with-applications/application-manufacturers.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/working-with-contractors/add-new-user.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/working-with-contractors/creation-of-the-applicant-individual-entrepreneur.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-in-statement/working-with-contractors/creation-of-the-applicant-legal-person.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-with-declaration/assignment-of-a-registration-number-of-the-declaration.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-with-declaration/creating-a-notice-of-termination.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-with-declaration/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/work-with-declaration/search-declaration-of-its-registration-number.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/create-new-statement/index.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/general-features-of-system-work/login.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/main-menu-system/button-replication.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/main-menu-system/button-reference.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/main-menu-system/button-journals.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/system-interface/main-menu-system/button-applications.html",
+		"/C/Users/maxonik/Projects/sys/manual/_site/test.html",
+		"/C/xampp/htdocs/wp-manual/wp-content/themes/sys-manual/index.php",
+		"/C/Users/maxonik/Projects/sys/manual/_site/css/main.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\maxonik\\Projects\\alex-smirnov\\navy\\less",
+			"C:\\Users\\maxonik\\Projects\\sys\\markup-template\\app\\categories\\Journal-additional-documentation",
+			"C:\\Users\\maxonik\\Projects\\sys\\markup-template\\dist\\Journal-additional-documentation",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\Users\\maxonik\\Projects\\sys\\markup-template\\dist\\Journal-additional-documentation",
+			"C:\\Users\\maxonik\\Projects\\sys\\markup-template",
+			"C:\\Users\\maxonik\\Projects\\sys\\templates\\template",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\xampp\\htdocs\\wp-manual\\wp-content\\themes\\sys-manual",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\xampp\\htdocs\\wp-manual\\wp-content\\themes\\sys-manual",
+			"C:\\Users\\maxonik\\Projects\\sys\\manual",
+			"C:\\Users\\maxonik\\Projects\\sys\\manual\\_site",
+			"C:\\xampp\\htdocs\\wp-manual\\wp-content\\plugins\\zilla-shortcodes",
+			"C:\\xampp\\htdocs\\wp-manual\\wp-content\\themes\\sys-manual",
+			"C:\\Users\\maxonik\\Projects\\sys\\manual\\_site",
+			"C:\\Users\\maxonik\\Projects\\sys\\manual",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\Scripts",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\DocumentsXSLT",
+			"C:\\inetpub\\claimer_makeup\\Views\\Templates\\STRTS",
+			"C:\\inetpub\\claimer_makeup\\Views",
+			"C:\\inetpub\\claimer_makeup\\DocumentsXSLT",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\Views",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\DocumentsXSLT\\STRTS",
+			"C:\\inetpub\\claimer_makeup\\DocumentsXSLT",
+			"C:\\inetpub\\claimer_makeup\\docs\\temp",
+			"C:\\inetpub\\claimer_makeup\\DocumentsXSLT\\STRTS",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\inetpub",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\Content",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\Users\\maxonik\\Projects\\sertsoft",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\",
+			"C:\\inetpub\\claimer_makeup\\DocumentsXSLT\\STRTS",
+			"C:\\inetpub\\claimer_makeup\\",
+			"C:\\inetpub\\claimer_makeup\\Views\\",
+			"C:\\inetpub\\claimer_makeup\\Views\\Templates\\DTRTS",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\LabProtocols",
+			"C:\\Users\\maxonik\\Projects\\sertsoft",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\Users\\maxonik\\Projects\\sertsoft\\numbers",
+			"C:\\inetpub\\claimer_makeup",
+			"C:\\inetpub\\claimer_makeup\\Views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yandex",
+			"itemKinder",
+			"kinder",
+			"лштвук",
+			"js",
+			"tr",
+			".mainItemBlock.itemKinder .infoTop",
+			".mainItemBlock.itemKinder .infoTop >",
+			".mainItemBlock.itemKinder .bigImg",
+			".mainItemBlock.itemKinder .tab_container",
+			",.",
+			"itemRoddom",
+			".mainItemBlock.itemKinder .tab_container",
+			"itemRoddom",
+			".mainItemBlock.itemRoddom",
+			"itemRoddom",
+			"addreviewform",
+			"testimonial-add addreviewform",
+			"img",
+			"img(src='/upload/",
+			"ima",
+			"base",
+			"src='/js",
+			"tab",
+			"reviews",
+			"src=\"/js",
+			"mainItemBlock itemRoddom",
+			"mainItemBlock",
+			"mainItemBlock itemRoddom",
+			"src=\"/js",
+			"jquery",
+			"<h2 class=\"title\">",
+			"div",
+			"</div>",
+			"edost_name",
+			"deliv-item",
+			"set-changeRegion",
+			"br",
+			"float:left;margin-right:10px;vertical-align:top;",
+			"img.edost_ico_small",
+			".btn",
+			".content-pad",
+			".cart-content-inner",
+			".content",
+			"../",
+			"url('../",
+			"../",
+			"url(../",
+			"q-selectbox__trigger-arrow",
+			"../fonts/",
+			"back",
+			"url(../",
+			"url(img",
+			"back",
+			"url('fonts/",
+			".home-title",
+			"home-title ",
+			"mobileBrowser",
+			".home-title",
+			"family",
+			"field-validation-valid",
+			".login_block ",
+			".mainpage .login_block",
+			"/Content/I",
+			".form-signin ",
+			".form-signin",
+			"b-tab-content-inner",
+			"решение",
+			"label(for='') #{title}",
+			"th #{title}",
+			"<br>",
+			"date",
+			"дата",
+			"<input type=\"text\" class=\"form-control datepicker\"/>",
+			"срок действия с",
+			"&lt;br&gt;",
+			"br",
+			"ик",
+			"Дата проведение аттестации",
+			"&lt;br&gt;",
+			"br",
+			"&lt;",
+			"checkbox-allinone",
+			"\"",
+			"name",
+			"val",
+			"tableTitles",
+			"includes",
+			"modal",
+			"screwd",
+			"screw",
+			"screwd",
+			"input",
+			"checkbox",
+			"url('/Content/",
+			"<label class=\"control-label col-xs-1\">ОС:</label>",
+			"Журнал регистрации бланков строгой отчетности",
+			"url(\"Content",
+			"c-foot",
+			"url(Content",
+			"url(images",
+			"url(Content",
+			"}/",
+			"url(Content",
+			"url(\"Content/",
+			"url(Content",
+			"background: url(Content",
+			"9636",
+			"background: url('/Content",
+			"/Content/",
+			" background: url(\"Content/",
+			"')",
+			"href='",
+			"''",
+			"')",
+			"'",
+			"(href='",
+			"'",
+			"plugins",
+			"..",
+			"screen-reader-text",
+			"collapse child menu",
+			"clock",
+			"text-link new-export",
+			"<span class=\"item-text\">Подписать</span>",
+			"url",
+			"toolti",
+			"-10000px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url('",
+			"url(",
+			"label(for='')!= title",
+			"th!= title",
+			"<div class=\"nowrap-block\">\n    <input type=\"text\" class=\"form-control datepicker\"/>\n    <a href=\"#\" class=\"ui-datepicker-trigger icon-btn icon-btn-grey inline-level\"><span class=\"icon-calend\"></span></a>\n</div>",
+			"<br>",
+			"<",
+			"http://help.advance-docs.ru/",
+			"http://help.advance-docs.ru",
+			"http://localhost:8080/wp-manual/",
+			"http://localhost/wp-manual/wp-content/uploads/2015/05/",
+			"http://localhost/wp-manual/wp-content/uploads/2015/05",
+			"Sys_manual",
+			"sys_manual",
+			"http://sigray.ru/site-example/sys/manual/images/",
+			"sys-images/",
+			"completed",
+			"state",
+			"Наименование технического регламента Таможенного союза",
+			"\"c-foot scrolled-block\"",
+			"text text",
+			"text text text text text text text text text ",
+			"url(Content/Images",
+			"url(Content",
+			"url(\"Content",
+			"",
+			"<script src=\"script/select2_locale_ru.js\"></script>\n    <script src=\"script/jquery.screwdefaultbuttonsV2.js\"></script>",
+			"<li><a href=\"numbers.html\">Выданные номера</a></li>\n                                <li><a href=\"replication.html\">Репликация</a></li>",
+			"<li><a href=\"user.html\">Пользователи</a>",
+			"<li><a href=\"numbers.html\">Выданные номера</a>",
+			"class=\"reglaments-source form-control\" multiple = \"multiple\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\maxonik\\Projects\\alex-smirnov\\mamantena.by"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/kindergarten.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6399,
+								6399
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2947,
+								2947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1568.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scss/utilities/index.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@import \"\";",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/scss/utilities/icons.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/includes/head.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								1047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3684,
+								3684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1586.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/js/effects.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 79.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"head",
+				"app\\includes\\head.jade"
+			],
+			[
+				"_sidebar",
+				"claimer_makeup\\Views\\Claim\\_Sidebar.cshtml"
+			],
+			[
+				"formjs",
+				"claimer_makeup\\Views\\Shared\\_FormJS.cshtml"
+			],
+			[
+				"indexjs",
+				"claimer_makeup\\Views\\Blank\\_IndexJS.cshtml"
+			],
+			[
+				"form",
+				"claimer_makeup\\Views\\Shared\\_FormJS.cshtml"
+			],
+			[
+				"pro",
+				"Views\\Templates\\STRTS\\ProductionAnalisys.cshtml"
+			],
+			[
+				"bla",
+				"Views\\Templates\\STRTS\\BlanksList.cshtml"
+			],
+			[
+				"proda",
+				"Views\\Templates\\STRTS\\ProductionAnalisys.cshtml"
+			],
+			[
+				"less",
+				"Content\\new_style.less"
+			],
+			[
+				"style",
+				"Content\\style.css"
+			],
+			[
+				"sstrts.css",
+				"Content\\documents\\SSTRTS.css"
+			],
+			[
+				"documents",
+				"Views\\Lists\\DocumentType_Form.cshtml"
+			],
+			[
+				"styl",
+				"sass\\styles.scss"
+			],
+			[
+				"html",
+				"html:5"
+			],
+			[
+				"new",
+				"Content\\new_style.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "cla",
+		"selected_items":
+		[
+			[
+				"cla",
+				"C:\\Users\\maxonik\\Projects\\claimer_makeup.sublime-workspace"
+			],
+			[
+				"mama",
+				"C:\\Users\\maxonik\\Projects\\mamantena\\mamantena.sublime-workspace"
+			],
+			[
+				"navy",
+				"C:\\Users\\maxonik\\Projects\\navy\\navy.sublime-workspace"
+			],
+			[
+				"ba",
+				"C:\\Users\\maxonik\\Projects\\alex-smirnov\\balances-template\\balances-template.sublime-workspace"
+			],
+			[
+				"test",
+				"C:\\Users\\maxonik\\Projects\\tes-travel\\tes-travel.sublime-workspace"
+			],
+			[
+				"vse",
+				"C:\\Users\\maxonik\\Projects\\vsekroham.sublime-project"
+			],
+			[
+				"tes",
+				"C:\\Users\\maxonik\\Projects\\tes-travel\\tes-travel.sublime-workspace"
+			],
+			[
+				"v",
+				"C:\\Users\\maxonik\\Projects\\vsekroham.sublime-project"
+			],
+			[
+				"t",
+				"C:\\Users\\maxonik\\Projects\\trikitatour\\trikitatour.sublime-workspace"
+			],
+			[
+				"tr",
+				"C:\\Users\\maxonik\\Projects\\trikitatour\\trikitatour.sublime-workspace"
+			],
+			[
+				"ross",
+				"C:\\Users\\maxonik\\Projects\\rosskurort\\rosskurort.sublime-workspace"
+			],
+			[
+				"kera",
+				"C:\\Users\\maxonik\\Projects\\keraplant\\keraplant.sublime-workspace"
+			],
+			[
+				"papa",
+				"C:\\Users\\maxonik\\Projects\\papaloni\\papaloni.sublime-workspace"
+			],
+			[
+				"",
+				"C:\\Users\\maxonik\\Projects\\express-gt\\express-gt.sublime-workspace"
+			],
+			[
+				"ho",
+				"C:\\Users\\maxonik\\Projects\\hockey-expert\\hockey.sublime-workspace"
+			],
+			[
+				"ex",
+				"C:\\Users\\maxonik\\Projects\\express-gt\\express-gt.sublime-workspace"
+			],
+			[
+				"pal",
+				"C:\\Users\\maxonik\\Projects\\papaloni\\papaloni.sublime-workspace"
+			],
+			[
+				"na",
+				"C:\\Users\\maxonik\\Projects\\navy\\navy.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

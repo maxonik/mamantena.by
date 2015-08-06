@@ -1,0 +1,1 @@
+(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=ew1KKzjdRzbTYIwf2g2KlMTCxyZ89R*i123uF7hYJddDXXlJcUuFTxWMjDFM0RFaHT/5f0AqKLVv18KxuMrU6DIWHO7SlTCMqyqNhO*T0iZbbwoh4XXp5ZromY09CNRzmaDLe7yxKnsleBxf24qIA5XQ0KRkmqPxUr/TOCDx4Qo-';

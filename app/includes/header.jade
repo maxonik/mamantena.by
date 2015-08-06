@@ -1,0 +1,66 @@
+header
+    section.hdr_top
+        .inner
+            .phones
+                p
+                    span Консультант - 8 (029)  
+                    | 1-700-940
+            .arrow
+                span.arrowbg
+                a.to_contacts(href='#') наши контакты
+            a.skk(href='#') Служба контроля качества
+    .content
+        .logo
+            a(href='/')
+                img(src='/images/logo.png', alt='Интернет-магазин детских колясок и кроваток')
+        .search_block
+            .search
+                form(action='/search/index.php')
+                    .input-field
+                        select#categories.chzn-select(name='cat')
+                            option(value='') Все категории
+                            option(value='14') Детские коляски
+                            option(value='15') Детские кроватки
+                            option(value='23') Все для кроватки
+                            option(value='32') Детская мебель
+                            option(value='36') Детские конверты, пеленки
+                            option(value='41') Манежи и барьеры
+                            option(value='44') Автокресла
+                            option(value='50') Стульчики для кормления
+                            option(value='51') Качели и шезлонги
+                            option(value='89') Детские велосипеды
+                            option(value='99') Детские санки
+                    .input-field2
+                        input.txt-input(type='text', name='q', value='', placeholder='Поиск товара...')
+                    .input-field
+                        input.btn-submit(type='submit', name='how', value='найти')
+        .basket
+            #basket_small
+                // 'start_frame_cache_basket_small'
+                span.no_products
+                    span.count 0
+                    |  товаров на 
+                    span.summ 0
+                    |  руб.
+                // 'end_frame_cache_basket_small'
+        nav.topmenu
+            ul
+                li
+                    a(href='/') На главную
+                li
+                    a(href='/catalog/detskie-kolyaski/') Каталог товаров
+                li
+                    a(href='/delivery/') Доставка
+                li
+                    a(href='/pay/') Оплата
+                li
+                    a(href='/warranty/') Гарантия
+                li
+                    a.select(href='/roddom/') Роддома
+                li
+                    a(href='/contacts/') Контакты
+                li
+                    a(href='/actions/') Акции
+        .slogan
+            span.flr доставка по минску бесплатно!
+            span.fll Доставляем заказы по всей Беларуси!

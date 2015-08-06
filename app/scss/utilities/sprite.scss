@@ -1,0 +1,180 @@
+/*
+SCSS variables are information about icon's compiled state, stored under its original file name
+
+.icon-home {
+  width: $icon-home-width;
+}
+
+The large array-like variables contain all information about a single icon
+$icon-home: x y offset_x offset_y width height total_width total_height image_path;
+
+At the bottom of this section, we provide information about the spritesheet itself
+$spritesheet: width height image $spritesheet-sprites;
+*/
+$sprite-b-control-name: 'sprite-b-control';
+$sprite-b-control-x: 85px;
+$sprite-b-control-y: 52px;
+$sprite-b-control-offset-x: -85px;
+$sprite-b-control-offset-y: -52px;
+$sprite-b-control-width: 9px;
+$sprite-b-control-height: 10px;
+$sprite-b-control-total-width: 128px;
+$sprite-b-control-total-height: 94px;
+$sprite-b-control-image: '../images/sprite.png';
+$sprite-b-control: (85px, 52px, -85px, -52px, 9px, 10px, 128px, 94px, '../images/sprite.png', 'sprite-b-control', );
+$sprite-camera-name: 'sprite-camera';
+$sprite-camera-x: 64px;
+$sprite-camera-y: 0px;
+$sprite-camera-offset-x: -64px;
+$sprite-camera-offset-y: 0px;
+$sprite-camera-width: 64px;
+$sprite-camera-height: 52px;
+$sprite-camera-total-width: 128px;
+$sprite-camera-total-height: 94px;
+$sprite-camera-image: '../images/sprite.png';
+$sprite-camera: (64px, 0px, -64px, 0px, 64px, 52px, 128px, 94px, '../images/sprite.png', 'sprite-camera', );
+$sprite-chart-78-name: 'sprite-chart--78';
+$sprite-chart-78-x: 0px;
+$sprite-chart-78-y: 0px;
+$sprite-chart-78-offset-x: 0px;
+$sprite-chart-78-offset-y: 0px;
+$sprite-chart-78-width: 64px;
+$sprite-chart-78-height: 64px;
+$sprite-chart-78-total-width: 128px;
+$sprite-chart-78-total-height: 94px;
+$sprite-chart-78-image: '../images/sprite.png';
+$sprite-chart-78: (0px, 0px, 0px, 0px, 64px, 64px, 128px, 94px, '../images/sprite.png', 'sprite-chart--78', );
+$sprite-error-name: 'sprite-error';
+$sprite-error-x: 15px;
+$sprite-error-y: 64px;
+$sprite-error-offset-x: -15px;
+$sprite-error-offset-y: -64px;
+$sprite-error-width: 13px;
+$sprite-error-height: 13px;
+$sprite-error-total-width: 128px;
+$sprite-error-total-height: 94px;
+$sprite-error-image: '../images/sprite.png';
+$sprite-error: (15px, 64px, -15px, -64px, 13px, 13px, 128px, 94px, '../images/sprite.png', 'sprite-error', );
+$sprite-fb-xs-name: 'sprite-fb-xs';
+$sprite-fb-xs-x: 64px;
+$sprite-fb-xs-y: 52px;
+$sprite-fb-xs-offset-x: -64px;
+$sprite-fb-xs-offset-y: -52px;
+$sprite-fb-xs-width: 12px;
+$sprite-fb-xs-height: 12px;
+$sprite-fb-xs-total-width: 128px;
+$sprite-fb-xs-total-height: 94px;
+$sprite-fb-xs-image: '../images/sprite.png';
+$sprite-fb-xs: (64px, 52px, -64px, -52px, 12px, 12px, 128px, 94px, '../images/sprite.png', 'sprite-fb-xs', );
+$sprite-i-control-name: 'sprite-i-control';
+$sprite-i-control-x: 94px;
+$sprite-i-control-y: 52px;
+$sprite-i-control-offset-x: -94px;
+$sprite-i-control-offset-y: -52px;
+$sprite-i-control-width: 7px;
+$sprite-i-control-height: 10px;
+$sprite-i-control-total-width: 128px;
+$sprite-i-control-total-height: 94px;
+$sprite-i-control-image: '../images/sprite.png';
+$sprite-i-control: (94px, 52px, -94px, -52px, 7px, 10px, 128px, 94px, '../images/sprite.png', 'sprite-i-control', );
+$sprite-map-pin-name: 'sprite-map-pin';
+$sprite-map-pin-x: 76px;
+$sprite-map-pin-y: 52px;
+$sprite-map-pin-offset-x: -76px;
+$sprite-map-pin-offset-y: -52px;
+$sprite-map-pin-width: 9px;
+$sprite-map-pin-height: 12px;
+$sprite-map-pin-total-width: 128px;
+$sprite-map-pin-total-height: 94px;
+$sprite-map-pin-image: '../images/sprite.png';
+$sprite-map-pin: (76px, 52px, -76px, -52px, 9px, 12px, 128px, 94px, '../images/sprite.png', 'sprite-map-pin', );
+$sprite-pencil-green-name: 'sprite-pencil-green';
+$sprite-pencil-green-x: 0px;
+$sprite-pencil-green-y: 64px;
+$sprite-pencil-green-offset-x: 0px;
+$sprite-pencil-green-offset-y: -64px;
+$sprite-pencil-green-width: 15px;
+$sprite-pencil-green-height: 15px;
+$sprite-pencil-green-total-width: 128px;
+$sprite-pencil-green-total-height: 94px;
+$sprite-pencil-green-image: '../images/sprite.png';
+$sprite-pencil-green: (0px, 64px, 0px, -64px, 15px, 15px, 128px, 94px, '../images/sprite.png', 'sprite-pencil-green', );
+$sprite-telephone-xs-name: 'sprite-telephone-xs';
+$sprite-telephone-xs-x: 0px;
+$sprite-telephone-xs-y: 79px;
+$sprite-telephone-xs-offset-x: 0px;
+$sprite-telephone-xs-offset-y: -79px;
+$sprite-telephone-xs-width: 11px;
+$sprite-telephone-xs-height: 15px;
+$sprite-telephone-xs-total-width: 128px;
+$sprite-telephone-xs-total-height: 94px;
+$sprite-telephone-xs-image: '../images/sprite.png';
+$sprite-telephone-xs: (0px, 79px, 0px, -79px, 11px, 15px, 128px, 94px, '../images/sprite.png', 'sprite-telephone-xs', );
+$sprite-u-control-name: 'sprite-u-control';
+$sprite-u-control-x: 28px;
+$sprite-u-control-y: 64px;
+$sprite-u-control-offset-x: -28px;
+$sprite-u-control-offset-y: -64px;
+$sprite-u-control-width: 10px;
+$sprite-u-control-height: 13px;
+$sprite-u-control-total-width: 128px;
+$sprite-u-control-total-height: 94px;
+$sprite-u-control-image: '../images/sprite.png';
+$sprite-u-control: (28px, 64px, -28px, -64px, 10px, 13px, 128px, 94px, '../images/sprite.png', 'sprite-u-control', );
+$spritesheet-width: 128px;
+$spritesheet-height: 94px;
+$spritesheet-image: '../images/sprite.png';
+$spritesheet-sprites: ($sprite-b-control, $sprite-camera, $sprite-chart-78, $sprite-error, $sprite-fb-xs, $sprite-i-control, $sprite-map-pin, $sprite-pencil-green, $sprite-telephone-xs, $sprite-u-control, );
+$spritesheet: (128px, 94px, '../images/sprite.png', $spritesheet-sprites, );
+
+/*
+The provided mixins are intended to be used with the array-like variables
+
+.icon-home {
+  @include sprite-width($icon-home);
+}
+
+.icon-email {
+  @include sprite($icon-email);
+}
+*/
+@mixin sprite-width($sprite) {
+  width: nth($sprite, 5);
+}
+
+@mixin sprite-height($sprite) {
+  height: nth($sprite, 6);
+}
+
+@mixin sprite-position($sprite) {
+  $sprite-offset-x: nth($sprite, 3);
+  $sprite-offset-y: nth($sprite, 4);
+  background-position: $sprite-offset-x  $sprite-offset-y;
+}
+
+@mixin sprite-image($sprite) {
+  $sprite-image: nth($sprite, 9);
+  background-image: url(#{$sprite-image});
+}
+
+@mixin sprite($sprite) {
+  @include sprite-image($sprite);
+  @include sprite-position($sprite);
+  @include sprite-width($sprite);
+  @include sprite-height($sprite);
+}
+
+/*
+The `sprites` mixin generates identical output to the CSS template
+  but can be overridden inside of SCSS
+
+@include sprites($spritesheet-sprites);
+*/
+@mixin sprites($sprites) {
+  @each $sprite in $sprites {
+    $sprite-name: nth($sprite, 10);
+    .#{$sprite-name} {
+      @include sprite($sprite);
+    }
+  }
+}
